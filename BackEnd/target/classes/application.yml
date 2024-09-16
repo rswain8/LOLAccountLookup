@@ -1,0 +1,8 @@
+spring.application.name: ProfileSearch
+server:
+  port : 9096
+League:
+  Api:
+    Key: "RGAPI-b68e0ca5-d23a-44e1-a34d-c5e4c56d8664"
+Data:
+  Champions: "C:\\Users\\reill\\Documents\\LolWebsite\\ProfileSearch\\src\\main\\champions.json"
